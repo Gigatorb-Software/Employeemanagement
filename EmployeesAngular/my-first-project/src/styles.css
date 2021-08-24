@@ -1,0 +1,76 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.footer{
+    position: absolute;
+    bottom:0;
+width: 100%;
+height: 40px;
+background-color: brown;
+text-align: center;
+color: white;
+
+}
+.text-center{
+    color: tomato;
+    font-variant: traditional;
+    font-family: fantasy;
+    
+}
+a:hover {
+    background-color: rgb(255, 0, 106);
+
+  }
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;}
+  
+    .h2, h2 {
+        font-size: calc(1.325rem + .9vw);
+        font-family: initial;
+        color: chocolate;
+    }
+    
+    
+   .navbar-dark{
+background-color: brown;
+   }
+   .h3, h3 {
+    color: chocolate;
+    font-size: 34px;
+    font-family: serif;
+    margin-top: 85px;
+    text-align: center;
+}
+.btn-info{
+
+    color: white;
+        background-color: darkcyan; ;
+        border-color:  #2e979b; 
+}
+
+.table thead {
+    vertical-align: bottom;
+    font-size: larger;
+    
+}
+.view{
+background-color: darkcyan;
+height: 140px;
+width: 52%;
+margin-left: 255px;
+color: white;
+}
+.f1{
+    text-align: center;
+    padding-top: 20px;
+}
+.l1{
+    text-align: center;
+}
+ .m1{
+     text-align: center;
+ }
+ .btn-success{
+     margin-top: 21px;
+ }
